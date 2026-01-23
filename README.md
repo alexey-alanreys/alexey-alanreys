@@ -108,6 +108,10 @@
       <br>ESLint
     </td>
     <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://www.svgrepo.com/show/439270/prettier.svg" width="36" height="36" alt="Prettier" /></a>
+      <br>Prettier
+    </td>
+    <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/biome/biome-original.svg" width="36" height="36" alt="Biome" /></a>
       <br>Biome
     </td>
