@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Albert Alan-Reys
+# 👋 Hello there! I'm Alexey Alan-Reys
 
 **Full-Stack Software Engineer** with 7+ years of experience.
 
